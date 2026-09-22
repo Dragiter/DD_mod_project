@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+  <!-- new trinket -->
+  <entry id="str_inventory_title_trinket"><![CDATA[Beast Clasp]]></entry>
+  <!-- rarity -->
+  <entry id="trinket_rarity_Circus"><![CDATA[Circus]]></entry>
+  </language>
+</root>
+
