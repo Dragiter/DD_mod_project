@@ -2,16 +2,17 @@
    "entries":
    [
 	{	
-         "id" : "",
+         "id" : "beast_clasp",
          "buffs" : 
          [
-            ""
+            "ACC5"
          ],
          "hero_class_requirements":
          [
+            "abomination"
          ],
-         "rarity" : "",
-         "price" : 0,
+         "rarity" : "circus",
+         "price" : 25000,
          "limit" : 0,
          "origin_dungeon" : ""
     }

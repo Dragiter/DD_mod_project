@@ -2,9 +2,25 @@
 <root>
   <language id="english">
   <!-- new trinket -->
-  <entry id="str_inventory_title_trinket"><![CDATA[Beast Clasp]]></entry>
+  <entry id="str_inventory_title_trinketbeast_clasp"><![CDATA[Beast Clasp]]></entry>
   <!-- rarity -->
-  <entry id="trinket_rarity_Circus"><![CDATA[Circus]]></entry>
+  <entry id="trinket_rarity_circus"><![CDATA[Circus]]></entry>
+  </language>
+  <language id="french">
+  </language>
+  <language id="german">
+  </language>
+  <language id="spanish">
+  </language>
+  <language id="brazilian">
+  </language>
+  <language id="russian">
+  </language>
+  <language id="polish">
+  </language>
+  <language id="czech">
+  </language>
+  <language id="italian">
   </language>
 </root>
 
