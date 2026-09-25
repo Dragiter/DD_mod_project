@@ -1,0 +1,5 @@
+// ABOMINATION
+//-------------------------
+
+// Beast_Clasp Stress Heal
+effect: .name "TRINKET_beast_clasp_BUFF3" .target "performer" .chance 100% .healstress 5 .on_hit true .on_miss false .queue true .apply_once true

@@ -3,6 +3,9 @@
   <language id="english">
   <!-- new trinket -->
   <entry id="str_inventory_title_trinketbeast_clasp"><![CDATA[Beast Clasp]]></entry>
+  <entry id="str_inventory_title_trinketbroken_lock"><![CDATA[Broken Lock]]></entry>
+  <entry id="str_inventory_title_trinketimpossible_glyph"><![CDATA[Impossible Glyph]]></entry>
+  <entry id="str_inventory_title_trinketsolanum_blossom"><![CDATA[Solanum Blossom]]></entry>
   <!-- rarity -->
   <entry id="trinket_rarity_circus"><![CDATA[Circus]]></entry>
   </language>

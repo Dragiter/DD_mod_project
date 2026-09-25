@@ -5,6 +5,26 @@
          "id" : "beast_clasp",
          "buffs" : 
          [
+            "TRINKET_beast_clasp_BUFF",
+            "TRINKET_beast_clasp_BUFF2"
+         ],
+         "hero_class_requirements":
+         [
+            "abomination"
+         ],
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : "",
+         "melee_attack_skill_additional_effects" :
+         [
+             "TRINKET_beast_clasp_BUFF3"
+         ]
+    },
+    {
+         "id" : "broken_lock",
+         "buffs" : 
+         [
             "ACC5"
          ],
          "hero_class_requirements":
@@ -13,7 +33,37 @@
          ],
          "rarity" : "circus",
          "price" : 25000,
-         "limit" : 0,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "impossible_glyph",
+         "buffs" : 
+         [
+            "ACC5"
+         ],
+         "hero_class_requirements":
+         [
+            "antiquarian"
+         ],
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "solanum_blossom",
+         "buffs" : 
+         [
+            "ACC5"
+         ],
+         "hero_class_requirements":
+         [
+            "antiquarian"
+         ],
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
          "origin_dungeon" : ""
     }
    ]
