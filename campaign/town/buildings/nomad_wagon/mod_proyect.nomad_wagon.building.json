@@ -1,0 +1,45 @@
+{
+	"data" :
+	{ 
+		"stores" : 
+		[
+			{
+				"id" : "trinket_supply",
+				"data":
+				{
+					"number_of_trinkets_upgrades" : 
+					[
+						{ "amount" : 3 },
+						{ "amount" : 6,     "upgrade_tree_id" :  "nomad_wagon.numitems", "upgrade_requirement_code" : "a"  },
+						{ "amount" : 9,     "upgrade_tree_id" :  "nomad_wagon.numitems", "upgrade_requirement_code" : "b"  },
+						{ "amount" : 12,    "upgrade_tree_id" :  "nomad_wagon.numitems", "upgrade_requirement_code" : "c"  },
+						{ "amount" : 15,    "upgrade_tree_id" :  "nomad_wagon.numitems", "upgrade_requirement_code" : "d"  },
+                        { "amount" : 18,    "upgrade_tree_id" :  "nomad_wagon.numitems", "upgrade_requirement_code" : "e"  }
+					],
+
+					"trinket_cost_discount_upgrades" : 
+					[
+					{ "discount_percent" :  0.10, "upgrade_tree_id" :  "nomad_wagon.cost", "upgrade_requirement_code" : "a" },
+					{ "discount_percent" :  0.10, "upgrade_tree_id" :  "nomad_wagon.cost", "upgrade_requirement_code" : "b" },
+					{ "discount_percent" :  0.10, "upgrade_tree_id" :  "nomad_wagon.cost", "upgrade_requirement_code" : "c" },
+					{ "discount_percent" :  0.10, "upgrade_tree_id" :  "nomad_wagon.cost", "upgrade_requirement_code" : "d" },
+					{ "discount_percent" :  0.10, "upgrade_tree_id" :  "nomad_wagon.cost", "upgrade_requirement_code" : "e" },
+					{ "discount_percent" :  0.10, "upgrade_tree_id" :  "nomad_wagon.cost", "upgrade_requirement_code" : "f" }
+					],
+					
+					"trinket_sell_value_discount_upgrades" :
+					[
+						{ "discount_percent" : 0.0 }
+					],
+					
+					"rarity_generation_table" :
+					[
+						{ "rarity" : "circus", "chance" : 1.0 }
+						
+					],
+					"required_completed_plot_quest": ""
+				}
+			}
+		]
+	}
+}

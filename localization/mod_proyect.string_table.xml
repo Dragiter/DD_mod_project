@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <language id="english">
+  <!-- buffs-->
+  <entry id="buff_stat_tooltip_hp_dot_poison_amount_percent"><![CDATA[%+d%% {colour_start|blight}Blight{colour_end} Amount]]></entry>
+  <entry id="buff_stat_tooltip_ignore_guard"><![CDATA[Bypass {colour_start|guard}Guard{colour_end}]]></entry>
   <!-- new trinket -->
   <entry id="str_inventory_title_trinketbeast_clasp"><![CDATA[Beast Clasp]]></entry>
   <entry id="str_inventory_title_trinketbroken_lock"><![CDATA[Broken Lock]]></entry>
   <entry id="str_inventory_title_trinketimpossible_glyph"><![CDATA[Impossible Glyph]]></entry>
   <entry id="str_inventory_title_trinketsolanum_blossom"><![CDATA[Solanum Blossom]]></entry>
+  <entry id="str_inventory_title_trinketwarden_plate"><![CDATA[Warden Plate]]></entry>
+  <entry id="str_inventory_title_trinketbarbed_bolts"><![CDATA[Barbed Bolts]]></entry>
+  <entry id="str_inventory_title_trinketmissing_poster"><![CDATA[Missing poster]]></entry>
+  <entry id="str_inventory_title_trinketheavy_gauntlet"><![CDATA[Heavy Gauntlet]]></entry>
   <!-- rarity -->
-  <entry id="trinket_rarity_circus"><![CDATA[Circus]]></entry>
+  <entry id="trinket_rarity_circus"><![CDATA[Fool's Glory]]></entry>
+  <!-- sets-->
+  <entry id="str_inventory_set_title_mod_abom"><![CDATA["I will not be their monster."]]></entry>
+  <entry id="str_inventory_set_title_mod_anti"><![CDATA["Secrets from a ancient sect."]]></entry>
+  <entry id="str_inventory_set_title_mod_arba"><![CDATA["I will not let them down."]]></entry>
+  <entry id="str_inventory_set_title_mod_bohu"><![CDATA["Job's not done yet."]]></entry>
+  <!--
+  <entry id="str_inventory_set_title_mod_crus"><![CDATA["."]]></entry>
+  <entry id="str_inventory_set_title_mod_flag"><![CDATA["."]]></entry>
+  <entry id="str_inventory_set_title_mod_grro"><![CDATA["."]]></entry>
+  <entry id="str_inventory_set_title_mod_hell"><![CDATA["."]]></entry>
+  <entry id="str_inventory_set_title_mod_high"><![CDATA["."]]></entry>
+  <entry id="str_inventory_set_title_mod_houn"><![CDATA["."]]></entry>
+  <entry id="str_inventory_set_title_mod_jest"><![CDATA["."]]></entry>
+  <entry id="str_inventory_set_title_mod_lepr"><![CDATA["."]]></entry>
+  <entry id="str_inventory_set_title_mod_maar"><![CDATA["."]]></entry>
+  <entry id="str_inventory_set_title_mod_musk"><![CDATA["."]]></entry>
+  <entry id="str_inventory_set_title_mod_occu"><![CDATA["."]]></entry>
+  <entry id="str_inventory_set_title_mod_plag"><![CDATA["."]]></entry>
+  <entry id="str_inventory_set_title_mod_shbr"><![CDATA["."]]></entry>
+  <entry id="str_inventory_set_title_mod_vest"><![CDATA["."]]></entry> -->
   </language>
   <language id="french">
   </language>
