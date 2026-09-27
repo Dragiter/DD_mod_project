@@ -1,0 +1,38 @@
+{
+    "sets":
+   [
+      {
+         "id" : "mod_abom",
+         "buffs" : 
+         [
+            "SET_abom_BUFF",
+            "SET_abom_BUFF2",
+            "SET_abom_BUFF3"
+         ]
+      },
+      {
+         "id" : "mod_anti",
+         "buffs" : 
+         [
+            "SET_anti_BUFF",
+            "SET_anti_BUFF2"
+         ]
+      },
+      {
+         "id" : "mod_arba",
+         "buffs" : 
+         [
+            "SET_arba_BUFF",
+            "SET_arba_BUFFa",
+            "SET_arba_BUFFb"
+         ]
+      },
+      {
+         "id" : "mod_bohu",
+         "buffs" : 
+         [
+            "SET_arba_BUFF"
+         ]
+      }
+    ]
+}

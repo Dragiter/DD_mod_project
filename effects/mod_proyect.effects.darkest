@@ -3,3 +3,8 @@
 
 // Beast_Clasp Stress Heal
 effect: .name "TRINKET_beast_clasp_BUFF3" .target "performer" .chance 100% .healstress 5 .on_hit true .on_miss false .queue true .apply_once true
+// ARBALEST
+//-------------------------
+
+// Barbed_Bolts Bleed
+effect: .name "TRINKET_barbed_bolts_BUFF3" .target "target" .chance 150% .dotBleed 2 .duration 2 .on_hit true .on_miss false .can_apply_on_death true

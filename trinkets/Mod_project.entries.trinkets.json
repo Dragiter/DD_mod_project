@@ -12,6 +12,7 @@
          [
             "abomination"
          ],
+         "set_id" : "mod_abom",
          "rarity" : "circus",
          "price" : 25000,
          "limit" : 1,
@@ -25,12 +26,15 @@
          "id" : "broken_lock",
          "buffs" : 
          [
-            "ACC5"
+            "TRINKET_broken_lock_BUFF",
+            "TRINKET_broken_lock_BUFF2",
+            "TRINKET_broken_lock_BUFF3"
          ],
          "hero_class_requirements":
          [
             "abomination"
          ],
+         "set_id" : "mod_abom",
          "rarity" : "circus",
          "price" : 25000,
          "limit" : 1,
@@ -40,12 +44,15 @@
          "id" : "impossible_glyph",
          "buffs" : 
          [
-            "ACC5"
+            "TRINKET_impossible_glyph_BUFF",
+            "TRINKET_impossible_glyph_BUFF2",
+            "TRINKET_impossible_glyph_BUFF3"
          ],
          "hero_class_requirements":
          [
             "antiquarian"
          ],
+         "set_id" : "mod_anti",
          "rarity" : "circus",
          "price" : 25000,
          "limit" : 1,
@@ -55,12 +62,90 @@
          "id" : "solanum_blossom",
          "buffs" : 
          [
-            "ACC5"
+            "TRINKET_solanum_blossom_BUFF",
+            "TRINKET_solanum_blossom_BUFF2",
+            "TRINKET_solanum_blossom_BUFF3"
          ],
          "hero_class_requirements":
          [
             "antiquarian"
          ],
+         "set_id" : "mod_anti",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "warden_plate",
+         "buffs" : 
+         [
+            "TRINKET_warden_plate_BUFF",
+            "TRINKET_warden_plate_BUFF2",
+            "TRINKET_warden_plate_BUFF3"
+         ],
+         "hero_class_requirements":
+         [
+            "arbalest"
+         ],
+         "set_id" : "mod_arba",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "barbed_bolts",
+         "buffs" : 
+         [
+            "TRINKET_barbed_bolts_BUFF",
+            "TRINKET_barbed_bolts_BUFF2"
+         ],
+         "hero_class_requirements":
+         [
+            "arbalest"
+         ],
+         "set_id" : "mod_arba",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : "",
+         "ranged_attack_skill_additional_effects" :
+         [
+             "TRINKET_barbed_bolts_BUFF3"
+         ]
+    },
+	{	
+         "id" : "missing_poster",
+         "buffs" : 
+         [
+            "TRINKET_barbed_bolts_BUFF"
+         ],
+         "hero_class_requirements":
+         [
+            "bounty_hunter"
+         ],
+         "set_id" : "mod_bohu",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : "",
+         "melee_attack_skill_additional_effects" :
+         [
+             "Hwy Riposte 5"
+         ]
+    },
+	{	
+         "id" : "heavy_gauntlet",
+         "buffs" : 
+         [
+            "TRINKET_barbed_bolts_BUFF"
+         ],
+         "hero_class_requirements":
+         [
+            "bounty_hunter"
+         ],
+         "set_id" : "mod_bohu",
          "rarity" : "circus",
          "price" : 25000,
          "limit" : 1,

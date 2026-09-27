@@ -1,0 +1,7 @@
+<project>
+	<PreviewIconFile>preview_icon.png</PreviewIconFile>
+	<ItemDescriptionShort>test for first mod</ItemDescriptionShort>
+	<ModDataPath>C:/mods/Mod_project/</ModDataPath>
+	<Title>test_mod</Title>
+	<Language>english</Language>
+</project>
