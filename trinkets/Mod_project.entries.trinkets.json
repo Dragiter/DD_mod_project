@@ -5,8 +5,8 @@
          "id" : "beast_clasp",
          "buffs" : 
          [
-            "TRINKET_beast_clasp_BUFF",
-            "TRINKET_beast_clasp_BUFF2"
+            "TRINKET_HP25",
+            "TRINKET_PROC20"
          ],
          "hero_class_requirements":
          [
@@ -26,9 +26,9 @@
          "id" : "broken_lock",
          "buffs" : 
          [
-            "TRINKET_broken_lock_BUFF",
-            "TRINKET_broken_lock_BUFF2",
-            "TRINKET_broken_lock_BUFF3"
+            "TRINKET_CRIT10",
+            "TRINKET_ACC15",
+            "TRINKET_STRESSRES15"
          ],
          "hero_class_requirements":
          [
@@ -44,9 +44,8 @@
          "id" : "impossible_glyph",
          "buffs" : 
          [
-            "TRINKET_impossible_glyph_BUFF",
-            "TRINKET_impossible_glyph_BUFF2",
-            "TRINKET_impossible_glyph_BUFF3"
+            "TRINKET_HP25",
+            "TRINKET_HEALAMAUNT5"
          ],
          "hero_class_requirements":
          [
@@ -56,15 +55,20 @@
          "rarity" : "circus",
          "price" : 25000,
          "limit" : 1,
-         "origin_dungeon" : ""
+         "origin_dungeon" : "",
+         "friendly_skill_additional_effects" :
+		 [
+			 "TRINKET_impossible_glyph_BUFF3",
+          "TRINKET_impossible_glyph_BUFF4"
+		 ]
     },
 	{	
          "id" : "solanum_blossom",
          "buffs" : 
          [
-            "TRINKET_solanum_blossom_BUFF",
-            "TRINKET_solanum_blossom_BUFF2",
-            "TRINKET_solanum_blossom_BUFF3"
+            "TRINKET_BLIGHT30",
+            "TRINKET_BLIGHTAMOUNT50",
+            "TRINKET_BLIGHTDURATION50"
          ],
          "hero_class_requirements":
          [
@@ -80,9 +84,9 @@
          "id" : "warden_plate",
          "buffs" : 
          [
-            "TRINKET_warden_plate_BUFF",
-            "TRINKET_warden_plate_BUFF2",
-            "TRINKET_warden_plate_BUFF3"
+            "TRINKET_HP25",
+            "TRINKET_PROC25",
+            "TRINKET_ACC15"
          ],
          "hero_class_requirements":
          [
@@ -98,8 +102,8 @@
          "id" : "barbed_bolts",
          "buffs" : 
          [
-            "TRINKET_barbed_bolts_BUFF",
-            "TRINKET_barbed_bolts_BUFF2"
+            "TRINKET_IGNOREGUARD",
+            "TRINKET_IGNORE20PROT"
          ],
          "hero_class_requirements":
          [
@@ -119,7 +123,8 @@
          "id" : "missing_poster",
          "buffs" : 
          [
-            "TRINKET_barbed_bolts_BUFF"
+            "TRINKET_IGNORESTEALTH",
+            "TRINKET_DODGE25"
          ],
          "hero_class_requirements":
          [
@@ -132,20 +137,103 @@
          "origin_dungeon" : "",
          "melee_attack_skill_additional_effects" :
          [
-             "Hwy Riposte 5"
-         ]
+            "TRINKET_missing_poster_BUFF3"
+         ] 
+         
     },
 	{	
          "id" : "heavy_gauntlet",
          "buffs" : 
          [
-            "TRINKET_barbed_bolts_BUFF"
+            "TRINKET_ACC15",
+            "TRINKET_STUNCHA20",
+            "TRINKET_MOVECHA20"
          ],
          "hero_class_requirements":
          [
             "bounty_hunter"
          ],
          "set_id" : "mod_bohu",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "battle_scarred_helmet",
+         "buffs" : 
+         [
+            "TRINKET_HP25",
+            "TRINKET_PROC25",
+            "TRINKET_DAM15a",
+            "TRINKET_DAM15b"
+         ],
+         "hero_class_requirements":
+         [
+            "crusader"
+         ],
+         "set_id" : "mod_crus",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "glorious_banner",
+         "buffs" : 
+         [
+            "TRINKET_ACC15",
+            "TRINKET_STRESSHEAL20",
+            "TRINKET_HEALAMAUNT5"
+         ],
+         "hero_class_requirements":
+         [
+            "crusader"
+         ],
+         "set_id" : "mod_crus",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "crown_of_thorns",
+         "buffs" : 
+         [
+            "TRINKET_HEALRECIVED50"
+         ],
+         "hero_class_requirements":
+         [
+            "flagellant"
+         ],
+         "set_id" : "mod_flag",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : "",
+         "melee_attack_skill_additional_effects" :
+		   [
+			    "TRINKET_crown_of_thorns_BUFF3"
+		   ],
+		   "was_hit_additional_effects" :
+		   [
+			   "TRINKET_crown_of_thorns_BUFF2"
+		   ]
+    },
+	{	
+         "id" : "flayer_gauntlet",
+         "buffs" : 
+         [
+            "TRNKET_BLEEDDAM25a",
+            "TRNKET_BLEEDDAM25b",
+            "TRNKET_BLEEDPROT30",
+            "TRNKET_BLEEDCRIT20"
+         ],
+         "hero_class_requirements":
+         [
+            "flagellant"
+         ],
+         "set_id" : "mod_flag",
          "rarity" : "circus",
          "price" : 25000,
          "limit" : 1,

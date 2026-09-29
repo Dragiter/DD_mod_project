@@ -11,13 +11,13 @@
   <entry id="str_inventory_title_trinketsolanum_blossom"><![CDATA[Solanum Blossom]]></entry>
   <entry id="str_inventory_title_trinketwarden_plate"><![CDATA[Warden Plate]]></entry>
   <entry id="str_inventory_title_trinketbarbed_bolts"><![CDATA[Barbed Bolts]]></entry>
-  <entry id="str_inventory_title_trinketmissing_poster"><![CDATA[Missing poster]]></entry>
+  <entry id="str_inventory_title_trinketmissing_poster"><![CDATA[Missing Poster]]></entry>
   <entry id="str_inventory_title_trinketheavy_gauntlet"><![CDATA[Heavy Gauntlet]]></entry>
-    <!--
   <entry id="str_inventory_title_trinketbattle_scarred_helmet"><![CDATA[Battle Scarred Helmet]]></entry>
   <entry id="str_inventory_title_trinketglorious_banner"><![CDATA[Glorious Banner]]></entry>
   <entry id="str_inventory_title_trinketcrown_of_thorns"><![CDATA[Crown of Thorns]]></entry>
   <entry id="str_inventory_title_trinketflayer_gauntlet"><![CDATA[Flayer Gauntlet]]></entry>
+  <!--
   <entry id="str_inventory_title_trinketcloak_and_dagger"><![CDATA[Cloak and Dagger]]></entry>
   <entry id="str_inventory_title_trinketsturdy_bandoleer"><![CDATA[Sturdy Bandoleer]]></entry>
   <entry id="str_inventory_title_trinketbestial_bracers"><![CDATA[Bestial Bracers]]></entry>
@@ -53,9 +53,9 @@
   <entry id="str_inventory_set_title_mod_anti"><![CDATA["There are plenty more secrets out there."]]></entry>
   <entry id="str_inventory_set_title_mod_arba"><![CDATA["I will not let them down."]]></entry>
   <entry id="str_inventory_set_title_mod_bohu"><![CDATA["Job's not done yet."]]></entry>
+  <entry id="str_inventory_set_title_mod_crus"><![CDATA["We will retake this estate."]]></entry>
+  <entry id="str_inventory_set_title_mod_flag"><![CDATA["I'll be a glorious death."]]></entry>
   <!--
-  <entry id="str_inventory_set_title_mod_crus"><![CDATA["."]]></entry>
-  <entry id="str_inventory_set_title_mod_flag"><![CDATA["."]]></entry>
   <entry id="str_inventory_set_title_mod_grro"><![CDATA["."]]></entry>
   <entry id="str_inventory_set_title_mod_hell"><![CDATA["."]]></entry>
   <entry id="str_inventory_set_title_mod_high"><![CDATA["."]]></entry>
@@ -67,7 +67,9 @@
   <entry id="str_inventory_set_title_mod_occu"><![CDATA["."]]></entry>
   <entry id="str_inventory_set_title_mod_plag"><![CDATA["."]]></entry>
   <entry id="str_inventory_set_title_mod_shbr"><![CDATA["."]]></entry>
-  <entry id="str_inventory_set_title_mod_vest"><![CDATA["."]]></entry> -->
+  <entry id="str_inventory_set_title_mod_vest"><![CDATA["."]]></entry>
+  <entry id="str_inventory_set_title_mod_duel"><![CDATA["."]]></entry>
+  <entry id="str_inventory_set_title_mod_runa"><![CDATA["."]]></entry> -->
   </language>
   <language id="french">
   </language>

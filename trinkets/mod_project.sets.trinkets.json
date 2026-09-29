@@ -5,33 +5,54 @@
          "id" : "mod_abom",
          "buffs" : 
          [
-            "SET_abom_BUFF",
-            "SET_abom_BUFF2",
-            "SET_abom_BUFF3"
+            "TRINKET_STUNCHA20",
+            "TRINKET_BLIGHTCHA20",
+            "TRINKET_MOVECHA20"
          ]
       },
       {
          "id" : "mod_anti",
          "buffs" : 
          [
-            "SET_anti_BUFF",
-            "SET_anti_BUFF2"
+            "TRINKET_DODGE15",
+            "TRINKET_ACC15",
+            "TRINKET_STRESSRES20"
          ]
       },
       {
          "id" : "mod_arba",
          "buffs" : 
          [
-            "SET_arba_BUFF",
-            "SET_arba_BUFFa",
-            "SET_arba_BUFFb"
+            "TRINKET_CRIT50VSMARK",
+            "TRINKET_DAM25VSMARKa",
+            "TRINKET_DAM25VSMARKb"
          ]
       },
       {
          "id" : "mod_bohu",
          "buffs" : 
          [
-            "SET_arba_BUFF"
+            "TRINKET_SPD5",
+            "TRINKET_CRIT15",
+            "TRINKET_IGNOREGUARD"
+         ]
+      },
+      {
+         "id" : "mod_crus",
+         "buffs" : 
+         [
+            "TRINKET_STUNCHA20",
+            "TRINKET_STRESSRES20",
+            "TRINKET_SPD5"
+         ]
+      },
+      {
+         "id" : "mod_flag",
+         "buffs" : 
+         [
+            "TRINKET_ACC15",
+            "TRINKET_BLEEDCHA20",
+            "TRINKET_BLEEDDURATION50"
          ]
       }
     ]

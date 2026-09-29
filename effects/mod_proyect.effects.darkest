@@ -3,8 +3,31 @@
 
 // Beast_Clasp Stress Heal
 effect: .name "TRINKET_beast_clasp_BUFF3" .target "performer" .chance 100% .healstress 5 .on_hit true .on_miss false .queue true .apply_once true
+
 // ARBALEST
 //-------------------------
 
 // Barbed_Bolts Bleed
 effect: .name "TRINKET_barbed_bolts_BUFF3" .target "target" .chance 150% .dotBleed 2 .duration 2 .on_hit true .on_miss false .can_apply_on_death true
+
+// BOUNTY HUNTER
+//-------------------------
+
+// Missing_Poster Tagged
+effect: .name "TRINKET_missing_poster_BUFF3" .target "target" .curio_result_type "positive" .chance 100% .tag 1  .duration 3 .on_hit true .on_miss false
+
+// ANTIQUARIAN
+//-------------------------
+
+// Impossible_Glyph Cure Bleed Blight
+effect: .name "TRINKET_impossible_glyph_BUFF3" .target "target" .chance 100% .cure_poison 1 .on_hit true .on_miss false
+effect: .name "TRINKET_impossible_glyph_BUFF4" .target "target" .chance 100% .cure_bleed 1 .on_hit true .on_miss false
+
+// FLAGELLANT
+//-------------------------
+
+// Crown_of_Thorns Self Bleed
+effect: .name "TRINKET_crown_of_thorns_BUFF3" .target "performer" .chance 145% .dotBleed 1 .duration 2 .on_hit true .on_miss false .can_apply_on_death true .apply_once true
+
+// Crown_of_Thorns Self Stress Heal
+effect: .name "TRINKET_crown_of_thorns_BUFF2" .target "performer" .chance 100% .healstress 10 .on_hit true .on_miss false .queue true .apply_once true
