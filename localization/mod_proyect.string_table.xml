@@ -7,7 +7,7 @@
   <!-- new trinket -->
   <entry id="str_inventory_title_trinketbeast_clasp"><![CDATA[Beast Clasp]]></entry>
   <entry id="str_inventory_title_trinketbroken_lock"><![CDATA[Broken Lock]]></entry>
-  <entry id="str_inventory_title_trinketimpossible_glyph"><![CDATA[Impossible Glyph]]></entry>
+  <entry id="str_inventory_title_trinketblessed_pyramid"><![CDATA[Blessed Pyramid]]></entry>
   <entry id="str_inventory_title_trinketsolanum_blossom"><![CDATA[Solanum Blossom]]></entry>
   <entry id="str_inventory_title_trinketwarden_plate"><![CDATA[Warden Plate]]></entry>
   <entry id="str_inventory_title_trinketbarbed_bolts"><![CDATA[Barbed Bolts]]></entry>
@@ -15,21 +15,21 @@
   <entry id="str_inventory_title_trinketheavy_gauntlet"><![CDATA[Heavy Gauntlet]]></entry>
   <entry id="str_inventory_title_trinketbattle_scarred_helmet"><![CDATA[Battle Scarred Helmet]]></entry>
   <entry id="str_inventory_title_trinketglorious_banner"><![CDATA[Glorious Banner]]></entry>
-  <entry id="str_inventory_title_trinketcrown_of_thorns"><![CDATA[Crown of Thorns]]></entry>
+  <entry id="str_inventory_title_trinketthorned_crown"><![CDATA[Thorned Crown]]></entry>
   <entry id="str_inventory_title_trinketflayer_gauntlet"><![CDATA[Flayer Gauntlet]]></entry>
-  <!--
-  <entry id="str_inventory_title_trinketcloak_and_dagger"><![CDATA[Cloak and Dagger]]></entry>
-  <entry id="str_inventory_title_trinketsturdy_bandoleer"><![CDATA[Sturdy Bandoleer]]></entry>
+  <entry id="str_inventory_title_trinketcloak_of_daggers"><![CDATA[Cloak of Daggers]]></entry>
+  <entry id="str_inventory_title_trinketsturdy_bandeller"><![CDATA[Sturdy Bandolier]]></entry>
   <entry id="str_inventory_title_trinketbestial_bracers"><![CDATA[Bestial Bracers]]></entry>
   <entry id="str_inventory_title_trinketheirloom_axehead"><![CDATA[Heirloom Axehead]]></entry>
-  <entry id="str_inventory_title_trinketskull_bandanna"><![CDATA[Skull Bandanna]]></entry>
-  <entry id="str_inventory_title_trinketmasterwork_pistol"><![CDATA[Masterwork_pistol]]></entry>
+  <entry id="str_inventory_title_trinketmasterwork_dagger"><![CDATA[Masterwork Dagger]]></entry>
+  <entry id="str_inventory_title_trinketmasterwork_pistol"><![CDATA[Masterwork Pistol]]></entry>
   <entry id="str_inventory_title_trinketold_toy"><![CDATA[Old Toy]]></entry>
   <entry id="str_inventory_title_trinketmarking_whistle"><![CDATA[Marking whistle]]></entry>
   <entry id="str_inventory_title_trinketrazor_wit"><![CDATA[Razor Wit]]></entry>
   <entry id="str_inventory_title_trinketbright_lute"><![CDATA[Bright Lute]]></entry>
   <entry id="str_inventory_title_trinketsomber_bracelet"><![CDATA[Somber Bracelet]]></entry>
-  <entry id="str_inventory_title_trinketsharpening_stone"><![CDATA[Sharpening Stone]]></entry>
+  <entry id="str_inventory_title_trinketold_whetstone"><![CDATA[Old Whetstone]]></entry>
+  <!--
   <entry id="str_inventory_title_trinketduty_seal"><![CDATA[Duty Seal]]></entry>
   <entry id="str_inventory_title_trinketshinning_bulwark"><![CDATA[Shinning Bulwark]]></entry>
   <entry id="str_inventory_title_trinketiron_sights"><![CDATA[Iron Sights]]></entry>
@@ -55,13 +55,13 @@
   <entry id="str_inventory_set_title_mod_bohu"><![CDATA["Job's not done yet."]]></entry>
   <entry id="str_inventory_set_title_mod_crus"><![CDATA["We will retake this estate."]]></entry>
   <entry id="str_inventory_set_title_mod_flag"><![CDATA["I'll be a glorious death."]]></entry>
+  <entry id="str_inventory_set_title_mod_grro"><![CDATA["What else is hidden here."]]></entry>
+  <entry id="str_inventory_set_title_mod_hell"><![CDATA["Hunting for a new tribe."]]></entry>
+  <entry id="str_inventory_set_title_mod_high"><![CDATA["I'll make the most of this freedom."]]></entry>
+  <entry id="str_inventory_set_title_mod_houn"><![CDATA["There will be some justice in this."]]></entry>
+  <entry id="str_inventory_set_title_mod_jest"><![CDATA["A joke for the ages."]]></entry>
+  <entry id="str_inventory_set_title_mod_leap"><![CDATA["It's not my time yet."]]></entry>
   <!--
-  <entry id="str_inventory_set_title_mod_grro"><![CDATA["."]]></entry>
-  <entry id="str_inventory_set_title_mod_hell"><![CDATA["."]]></entry>
-  <entry id="str_inventory_set_title_mod_high"><![CDATA["."]]></entry>
-  <entry id="str_inventory_set_title_mod_houn"><![CDATA["."]]></entry>
-  <entry id="str_inventory_set_title_mod_jest"><![CDATA["."]]></entry>
-  <entry id="str_inventory_set_title_mod_lepr"><![CDATA["."]]></entry>
   <entry id="str_inventory_set_title_mod_maar"><![CDATA["."]]></entry>
   <entry id="str_inventory_set_title_mod_musk"><![CDATA["."]]></entry>
   <entry id="str_inventory_set_title_mod_occu"><![CDATA["."]]></entry>

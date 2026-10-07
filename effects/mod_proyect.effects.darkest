@@ -20,8 +20,8 @@ effect: .name "TRINKET_missing_poster_BUFF3" .target "target" .curio_result_type
 //-------------------------
 
 // Impossible_Glyph Cure Bleed Blight
-effect: .name "TRINKET_impossible_glyph_BUFF3" .target "target" .chance 100% .cure_poison 1 .on_hit true .on_miss false
-effect: .name "TRINKET_impossible_glyph_BUFF4" .target "target" .chance 100% .cure_bleed 1 .on_hit true .on_miss false
+effect: .name "TRINKET_blessed_pyramid_BUFF3" .target "target" .chance 100% .cure_poison 1 .on_hit true .on_miss false
+effect: .name "TRINKET_blessed_pyramid_BUFF4" .target "target" .chance 100% .cure_bleed 1 .on_hit true .on_miss false
 
 // FLAGELLANT
 //-------------------------
@@ -31,3 +31,21 @@ effect: .name "TRINKET_crown_of_thorns_BUFF3" .target "performer" .chance 145% .
 
 // Crown_of_Thorns Self Stress Heal
 effect: .name "TRINKET_crown_of_thorns_BUFF2" .target "performer" .chance 100% .healstress 10 .on_hit true .on_miss false .queue true .apply_once true
+
+// GRAVE ROBBER
+//-------------------------
+
+// Cloak_and_Dagger stealth
+effect: .name "TRINKET_cloak_and_dagger_BUFF3"  .target "performer" .chance 100% .stealth 1 .on_hit true .on_miss false .duration 2
+
+// JESTER
+//-------------------------
+
+// Bright_lute Stress Heal
+effect: .name "TRINKET_bright_lute_BUFF3" .target "performer_group" .chance 100% .healstress 5 .on_hit true .on_miss false .queue true .apply_once true
+
+// Leaper
+//-------------------------
+
+// Old_Whetstine Bleed
+effect: .name "TRINKET_old_whetstone_BUFF3" .target "target" .chance 130% .dotBleed 2 .duration 3 .on_hit true .on_miss false .can_apply_on_death true

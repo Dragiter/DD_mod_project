@@ -41,7 +41,7 @@
          "origin_dungeon" : ""
     },
 	{	
-         "id" : "impossible_glyph",
+         "id" : "blessed_pyramid",
          "buffs" : 
          [
             "TRINKET_HP25",
@@ -58,8 +58,8 @@
          "origin_dungeon" : "",
          "friendly_skill_additional_effects" :
 		 [
-			 "TRINKET_impossible_glyph_BUFF3",
-          "TRINKET_impossible_glyph_BUFF4"
+			 "TRINKET_blessed_pyramid_BUFF3",
+          "TRINKET_blessed_pyramid_BUFF4"
 		 ]
     },
 	{	
@@ -124,7 +124,7 @@
          "buffs" : 
          [
             "TRINKET_IGNORESTEALTH",
-            "TRINKET_DODGE25"
+            "TRINKET_DODGE15"
          ],
          "hero_class_requirements":
          [
@@ -197,7 +197,7 @@
          "origin_dungeon" : ""
     },
 	{	
-         "id" : "crown_of_thorns",
+         "id" : "thorned_crown",
          "buffs" : 
          [
             "TRINKET_HEALRECIVED50"
@@ -224,10 +224,10 @@
          "id" : "flayer_gauntlet",
          "buffs" : 
          [
-            "TRNKET_BLEEDDAM25a",
-            "TRNKET_BLEEDDAM25b",
-            "TRNKET_BLEEDPROT30",
-            "TRNKET_BLEEDCRIT20"
+            "TRINKET_BLEEDDAM25a",
+            "TRINKET_BLEEDDAM25b",
+            "TRINKET_BLEEDPROT30",
+            "TRINKET_BLEEDCRIT20"
          ],
          "hero_class_requirements":
          [
@@ -238,6 +238,238 @@
          "price" : 25000,
          "limit" : 1,
          "origin_dungeon" : ""
+    },
+	{	
+         "id" : "cloak_of_daggers",
+         "buffs" : 
+         [
+            "TRINKET_DODGE25",
+            "TRINKET_STRESSRES15"
+         ],
+         "hero_class_requirements":
+         [
+            "grave_robber"
+         ],
+         "set_id" : "mod_grro",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : "",
+		   "attack_skill_additional_effects" :
+		   [
+			   "TRINKET_cloak_and_dagger_BUFF3"
+		   ]
+    },
+	{	
+         "id" : "sturdy_bandeller",
+         "buffs" : 
+         [
+            "TRINKET_ACC15",
+            "TRINKET_BLIGHT30",
+            "TRINKET_SPD10"
+         ],
+         "hero_class_requirements":
+         [
+            "grave_robber"
+         ],
+         "set_id" : "mod_grro",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "bestial_bracers",
+         "buffs" : 
+         [
+            "TRINKET_DODGE25",
+            "TRINKET_STUNCHA20",
+            "TRINKET_PROC25"
+         ],
+         "hero_class_requirements":
+         [
+            "hellion"
+         ],
+         "set_id" : "mod_hell",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "heirloom_axehead",
+         "buffs" : 
+         [
+            "TRINKET_BLEEDCHA20",
+            "TRINKET_CRIT10",
+            "TRINKET_DAM15a",
+            "TRINKET_DAM15b"
+         ],
+         "hero_class_requirements":
+         [
+            "hellion"
+         ],
+         "set_id" : "mod_hell",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "masterwork_dagger",
+         "buffs" : 
+         [
+            "TRINKET_BLEEDCHA20",
+            "TRINKET_ACC15",
+            "TRINKET_MELEEDAM20a",
+            "TRINKET_MELEEDAM20a"
+         ],
+         "hero_class_requirements":
+         [
+            "highwayman"
+         ],
+         "set_id" : "mod_high",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "masterwork_pistol",
+         "buffs" : 
+         [
+            "TRINKET_CRIT25",
+            "TRINKET_MOVECHA20",
+            "TRINKET_RANGEDAM20a",
+            "TRINKET_RANGEDAM20b"
+         ],
+         "hero_class_requirements":
+         [
+            "highwayman"
+         ],
+         "set_id" : "mod_high",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "old_toy",
+         "buffs" : 
+         [
+            "TRINKET_STRESSRES15",
+            "TRINKET_STRESSHEAL20",
+            "TRINKET_DODGE25"
+         ],
+         "hero_class_requirements":
+         [
+            "houndmaster"
+         ],
+         "set_id" : "mod_houn",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "marking_whistle",
+         "buffs" : 
+         [
+            "TRINKET_BLEEDCHA20",
+            "TRINKET_ACC15",
+            "TRINKET_RANGEDAM20a",
+            "TRINKET_RANGEDAM20b",
+            ""
+         ],
+         "hero_class_requirements":
+         [
+            "houndmaster"
+         ],
+         "set_id" : "mod_houn",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "razor_wit",
+         "buffs" : 
+         [
+            "TRINKET_BLEEDCHA20",
+            "TRINKET_ACC15",
+            "TRINKET_CRIT25"
+         ],
+         "hero_class_requirements":
+         [
+            "jester"
+         ],
+         "set_id" : "mod_jest",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "bright_lute",
+         "buffs" : 
+         [
+            "TRINKET_STRESSHEAL50",
+            "TRINKET_STRESSRES15"
+         ],
+         "hero_class_requirements":
+         [
+            "jester"
+         ],
+         "set_id" : "mod_jest",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : "",
+         "attack_crit_additional_effects" : 
+		 [
+			 "TRINKET_bright_lute_BUFF3"
+		 ]
+    },
+	{	
+         "id" : "somber_bracelet",
+         "buffs" : 
+         [
+            "TRINKET_ACC15",
+            "TRINKET_STRESSRES15",
+            "TRINKET_HEALRECIVED50"
+         ],
+         "hero_class_requirements":
+         [
+            "leper"
+         ],
+         "set_id" : "mod_leap",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : ""
+    },
+	{	
+         "id" : "old_whetstone",
+         "buffs" : 
+         [
+            "TRINKET_CRIT10",
+            "TRINKET_DAM15a",
+            "TRINKET_DAM15b"
+         ],
+         "hero_class_requirements":
+         [
+            "leper"
+         ],
+         "set_id" : "mod_leap",
+         "rarity" : "circus",
+         "price" : 25000,
+         "limit" : 1,
+         "origin_dungeon" : "",
+         "melee_attack_skill_additional_effects" : 
+		 [
+			 "TRINKET_old_whetstone_BUFF3"
+		 ]
     }
    ]
 }
+

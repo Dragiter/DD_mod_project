@@ -54,6 +54,65 @@
             "TRINKET_BLEEDCHA20",
             "TRINKET_BLEEDDURATION50"
          ]
+      },
+      {
+         "id" : "mod_grro",
+         "buffs" : 
+         [
+            "TRINKET_STEALTHSCC15",
+            "TRINKET_STEALTHDAM25a",
+            "TRINKET_STEALTHDAM25b",
+            "TRINKET_STEALTHCRIT20"
+         ]
+      },
+      {
+         "id" : "mod_hell",
+         "buffs" : 
+         [
+            "TRINKET_HP25",
+            "TRINKET_DEBUFFRES50",
+            "TRINKET_ACC15"
+         ]
+      },
+      {
+         "id" : "mod_high",
+         "buffs" : 
+         [
+            "TRINKET_IGNOREGUARD",
+            "TRINKET_IGNORESTEALTH",
+            "TRINKET_DODGE25"
+         ]
+      },
+      {
+         "id" : "mod_houn",
+         "buffs" : 
+         [
+            "TRINKET_SCOUT20",
+            "TRINKET_HP25",
+            "TRINKET_PROC20"
+         ]
+      },
+      {
+         "id" : "mod_jest",
+         "buffs" : 
+         [
+            "TRINKET_SPD10",
+            "TRINKET_DODGE25",
+            "TRINKET_DAM15a",
+            "TRINKET_DAM15b"
+            
+         ]
+      },
+      {
+         "id" : "mod_leap",
+         "buffs" : 
+         [
+            "TRINKET_HP25",
+            "TRINKET_POISOMRES50",
+            "TRINKET_STUNRES50",
+            "TRINKET_BLEEDRES50"
+            
+         ]
       }
     ]
 }

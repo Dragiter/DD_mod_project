@@ -1,7 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
 <project>
 	<PreviewIconFile>preview_icon.png</PreviewIconFile>
-	<ItemDescriptionShort>test for first mod</ItemDescriptionShort>
-	<ModDataPath>C:/mods/Mod_project/</ModDataPath>
-	<Title>test_mod</Title>
+	<ItemDescriptionShort/>
+	<ModDataPath>C:/Users/fides/OneDrive/Desktop/New folder/Mod_project/</ModDataPath>
+	<Title>test trinkets</Title>
 	<Language>english</Language>
+	<UpdateDetails/>
+	<Visibility>private</Visibility>
+	<UploadMode>direct_upload</UploadMode>
+	<VersionMajor>0</VersionMajor>
+	<VersionMinor>0</VersionMinor>
+	<TargetBuild>27987</TargetBuild>
+	<Tags>
+		<Tags>Trinkets</Tags>
+	</Tags>
+	<ItemDescription>test mod</ItemDescription>
+	<PublishedFileId>3811925261</PublishedFileId>
 </project>
+
